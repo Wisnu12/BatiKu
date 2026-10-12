@@ -16,9 +16,9 @@ This project was developed as a personal portfolio project, combining Android de
 |:---:|:---:|
 | ![Home Screen](screenshots/Landing.png) | ![Camera Scanning](screenshots/Scan%20Batik.png) |
 
-| Batik Identification Result |
-|:---:|
-| ![Identification Result](screenshots/Detail%20Batik.png) |
+| Batik Identification Result | List Batik |
+|:---:||:---:|
+| ![Identification Result](screenshots/Detail%20Batik.png) | ![List Batik](screenshots/List%20Batik.png) |
 
 ## Tech Stack
 
