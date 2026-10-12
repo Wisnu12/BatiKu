@@ -14,11 +14,11 @@ This project was developed as a personal portfolio project, combining Android de
 
 | Home Screen | Camera Scanning |
 |:---:|:---:|
-| ![Home Screen](screenshots/Landing.png) | ![Camera Scanning](screenshots/Scan-Batik.png) |
+| ![Home Screen](screenshots/Landing.png) | ![Camera Scanning](screenshots/Scan%Batik.png) |
 
 | Batik Identification Result |
 |:---:|
-| ![Identification Result](screenshots/Detail-Batik.png) |
+| ![Identification Result](screenshots/Detail%Batik.png) |
 
 ## Tech Stack
 
